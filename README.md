@@ -44,4 +44,4 @@ upon this work, you may distribute the resulting
 work only under a license identical to this one.
 
 For more information, see:
-http://creativecommons.org/licenses/by-sa/2.5/
+http://creativecommons.org/licenses/by-sa/2.5/# My_Core_Python
